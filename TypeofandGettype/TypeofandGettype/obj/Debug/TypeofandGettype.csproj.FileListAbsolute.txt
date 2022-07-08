@@ -1,0 +1,6 @@
+c:\users\vinuk\documents\visual studio 2013\Projects\TypeofandGettype\TypeofandGettype\bin\Debug\TypeofandGettype.exe.config
+c:\users\vinuk\documents\visual studio 2013\Projects\TypeofandGettype\TypeofandGettype\bin\Debug\TypeofandGettype.exe
+c:\users\vinuk\documents\visual studio 2013\Projects\TypeofandGettype\TypeofandGettype\bin\Debug\TypeofandGettype.pdb
+c:\users\vinuk\documents\visual studio 2013\Projects\TypeofandGettype\TypeofandGettype\obj\Debug\TypeofandGettype.csprojResolveAssemblyReference.cache
+c:\users\vinuk\documents\visual studio 2013\Projects\TypeofandGettype\TypeofandGettype\obj\Debug\TypeofandGettype.exe
+c:\users\vinuk\documents\visual studio 2013\Projects\TypeofandGettype\TypeofandGettype\obj\Debug\TypeofandGettype.pdb

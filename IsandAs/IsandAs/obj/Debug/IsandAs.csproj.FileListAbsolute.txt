@@ -1,0 +1,6 @@
+c:\users\vinuk\documents\visual studio 2013\Projects\IsandAs\IsandAs\bin\Debug\IsandAs.exe.config
+c:\users\vinuk\documents\visual studio 2013\Projects\IsandAs\IsandAs\obj\Debug\IsandAs.csprojResolveAssemblyReference.cache
+c:\users\vinuk\documents\visual studio 2013\Projects\IsandAs\IsandAs\bin\Debug\IsandAs.exe
+c:\users\vinuk\documents\visual studio 2013\Projects\IsandAs\IsandAs\bin\Debug\IsandAs.pdb
+c:\users\vinuk\documents\visual studio 2013\Projects\IsandAs\IsandAs\obj\Debug\IsandAs.exe
+c:\users\vinuk\documents\visual studio 2013\Projects\IsandAs\IsandAs\obj\Debug\IsandAs.pdb

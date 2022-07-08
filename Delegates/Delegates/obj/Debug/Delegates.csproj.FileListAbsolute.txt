@@ -1,0 +1,6 @@
+c:\users\vinuk\documents\visual studio 2013\Projects\Delegates\Delegates\bin\Debug\Delegates.exe.config
+c:\users\vinuk\documents\visual studio 2013\Projects\Delegates\Delegates\bin\Debug\Delegates.exe
+c:\users\vinuk\documents\visual studio 2013\Projects\Delegates\Delegates\bin\Debug\Delegates.pdb
+c:\users\vinuk\documents\visual studio 2013\Projects\Delegates\Delegates\obj\Debug\Delegates.csprojResolveAssemblyReference.cache
+c:\users\vinuk\documents\visual studio 2013\Projects\Delegates\Delegates\obj\Debug\Delegates.exe
+c:\users\vinuk\documents\visual studio 2013\Projects\Delegates\Delegates\obj\Debug\Delegates.pdb
